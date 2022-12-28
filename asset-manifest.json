@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bmc-web/static/css/main.1adc6e7f.css",
+    "main.js": "/bmc-web/static/js/main.e13c7166.js",
+    "static/js/787.4c1ff425.chunk.js": "/bmc-web/static/js/787.4c1ff425.chunk.js",
+    "index.html": "/bmc-web/index.html",
+    "main.1adc6e7f.css.map": "/bmc-web/static/css/main.1adc6e7f.css.map",
+    "main.e13c7166.js.map": "/bmc-web/static/js/main.e13c7166.js.map",
+    "787.4c1ff425.chunk.js.map": "/bmc-web/static/js/787.4c1ff425.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1adc6e7f.css",
+    "static/js/main.e13c7166.js"
+  ]
+}
