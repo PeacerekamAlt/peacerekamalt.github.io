@@ -30,7 +30,7 @@ export const MainPage: React.FC = () => {
           return (
             <div key={index} className="news-wrapper">
               <div>
-                <img src="/stuff/news-icon-1.png" />
+                <img src="/bmc-web/stuff/news-icon-1.png" />
               </div>
               <div className="news-body">
                 <div className="news-title">{news.title}</div>
@@ -43,7 +43,7 @@ export const MainPage: React.FC = () => {
       </div>
       <div className="about-company-section">
         <div>
-          <img src="/stuff/stripes.png" />
+          <img src="/bmc-web/stuff/stripes.png" />
         </div>
         <div>
           <div className="about-company-header">Firma Przewozowa BMC</div>

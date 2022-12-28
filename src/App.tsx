@@ -16,7 +16,7 @@ function App() {
         <NotificationBar />
         <div className="content-wrapper">
           <div className="logo-wrapper">
-            <img src="/stuff/bmclogo.png" className="bmc-logo" />
+            <img src="/bmc-web/stuff/bmclogo.png" className="bmc-logo" />
           </div>
           <Navbar />
           <Routes>
