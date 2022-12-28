@@ -1,0 +1,49 @@
+.notification-bar {
+  position: sticky;
+  top: 0;
+  z-index: 19;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkseagreen; // default color
+  color: white;
+  font-weight: 600;
+  text-align: center;
+  padding: 10px 0px 15px 5px;
+  transition: 0.5s ease-in-out;
+  cursor: pointer;
+  font-size: 25px;
+  &.notification-color-red {
+    background-color: #d32f2f;
+  }
+  &.notification-color-green {
+    background-color: #74cc74;
+  }
+  &.reveal {
+    max-height: 230px;
+  }
+  &.hide {
+    max-height: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    .notification-text {
+      opacity: 0;
+    }
+  }
+  .notification-text {
+    transition: 0.5s ease-in-out;
+    opacity: 1;
+    width: 100%;
+    display: -webkit-box;
+    line-clamp: 6;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+  }
+  .close-notification {
+    float: right;
+    margin-right: 16px;
+    margin-left: 16px;
+  }
+}

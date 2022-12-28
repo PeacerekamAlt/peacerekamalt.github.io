@@ -1,0 +1,377 @@
+{
+  "important": "31.12 (sylwester) - busy nie kursują",
+  "news": {
+    "0": {
+      "title": "Witamy!",
+      "content": "Witamy na stronie Firmy Przewozowej BMC",
+      "date": "31 Styczeń 2018",
+      "show": true
+    },
+    "1": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "W związku z pandemią koronawirusa obowiązuje wakacyjny rozkład jazdy do odwołwania!",
+      "date": "14 Marzec 2020",
+      "show": true
+    },
+    "2": {
+      "title": "Wieliczka - Gdów: odjazdy zawieszone",
+      "content": "Trasa Wieliczka - Gdów: odjazdy busów zawieszone do odłowania ",
+      "date": "16 Marzec 2020",
+      "show": false
+    },
+    "3": {
+      "title": "Wieliczka - Gdów: odjazdy zawieszone ",
+      "content": "Trasa Wieliczka - Gdów: odjazdy busów zawieszone do odwołania!",
+      "date": "16 Marzec 2020",
+      "show": true
+    },
+    "4": {
+      "title": "Gdów - Bochnia: zmiana rozkładu jazdy",
+      "content": "Na trasie Gdów - Bochnia obowiązuje nowy tymczasowy rozkład jazdy widoczny w zakładce Rozkład Jazdy.",
+      "date": "16 Marzec 2020",
+      "show": true
+    },
+    "5": {
+      "title": "Bochnia - Gdów: wzrost cen biletów",
+      "content": "Od dnia 1.04.2020 ceny wzrosną o 50 gr. za każdy bilet jednorazowy na trasie Bochnia - Gdów.",
+      "date": "23 Marzec 2020",
+      "show": true
+    },
+    "6": {
+      "title": "Wznowanie trasy Wieliczka - Gdów",
+      "content": "Od 4.05.2020 wznawiamy relacje na trasie Wieliczka - Gdów. Nowe godziny kursów są widoczne w zakładce Rozkład jazdy.",
+      "date": "29 Kwiecień 2020",
+      "show": true
+    },
+    "7": {
+      "title": "Nowy rozkład jazdy Wieliczka - Gdów",
+      "content": "Od 18.05.2020 obowiązuje nowy rozkład jazdy na trasie Wieliczka - Gdów. Więcej informacji w zakładce \"Rozkład Jazdy\".",
+      "date": "18 Maj 2020",
+      "show": true
+    },
+    "8": {
+      "title": "Nowy rozkład jazdy Gdów - Bochnia (18.05)",
+      "content": "Na trasie Gdów - Bochnia od 18.05 obowiązuje Wakacyjny Rozkład Jazdy.\r\n\r\nKurs 17:45 z Gdowa: tymczasowo zawieszony\r\nKurs 18:20 z Bochni: tymczasowo zawieszony",
+      "date": "19 Maj 2020",
+      "show": false
+    },
+    "9": {
+      "title": "aa",
+      "content": "Nowy rozkład jazdy Gdów - Bochnia\r\nNa trasie Gdów - Bochnia od 18.05 obowiązuje Wakacyjny Rozkład Jazdy. \\nKurs 17:45 z Gdowa: tymczasowo zawieszony \\nKurs 18:20 z Bochni: tymczasowo zawieszony ",
+      "date": "19 Maj 2020",
+      "show": false
+    },
+    "10": {
+      "title": "Bochnia - Gdów: zmiany w rozkładzie",
+      "content": "Od 15.06.2020 wznawiamy kursy Poniedziałek-Piątek:\r\n\r\nz Gdowa: 17:45\r\nz Bochni: 18:20\r\n\r\noraz przywracamy sobotni rozkład jazdy",
+      "date": "7 Czerwiec 2020",
+      "show": false
+    },
+    "11": {
+      "title": "Bochnia - Gdów: zmiany w rozkładzie",
+      "content": "Od 15.06.2020 wznawiamy kursy od Poniedziałku do Piątku:<br>\r\nz Gdowa: 17:45\r\nz Bochni: 18:20\r\n<br><br>\r\noraz przywracamy sobotni rozkład jazdy",
+      "date": "7 Czerwiec 2020",
+      "show": false
+    },
+    "12": {
+      "title": "Bochnia - Gdów: zmiany w rozkładzie",
+      "content": "Od 15.06.2020 wznawiamy kursy dwa ostatnie kursy od Poniedziałeku do Piątku z Gdowa oraz przywracamy sobotni rozkład jazdy. Więcej informacji pod zakłądką Rozkład jazdy.",
+      "date": "7 Czerwiec 2020",
+      "show": false
+    },
+    "13": {
+      "title": "Wieliczka - Gdów: zmiany w rozkładzie jazdy",
+      "content": "Od 8.06.2020 obowiązuje nowy rozkład jazdy na trasie Wieliczka - Gdów. Więcej informacji pod zakładką Rozkład jazdy. ",
+      "date": "7 Czerwiec 2020",
+      "show": true
+    },
+    "14": {
+      "title": "Bochnia - Gdów: zmiany w rozkładzie",
+      "content": "Od 8.06.2020 wznawiamy kursy dwa ostatnie kursy od Poniedziałeku do Piątku z Gdowa oraz przywracamy sobotni rozkład jazdy. Więcej informacji pod zakłądką Rozkład jazdy. ",
+      "date": "7 Czerwiec 2020",
+      "show": false
+    },
+    "15": {
+      "title": "Bochnia - Gdów: zmiany w rozkładzie",
+      "content": "Od 8.06.2020 wznawiamy dwa ostatnie kursy od Poniedziałeku do Piątku z Gdowa oraz przywracamy Sobotni rozkład jazdy. Więcej informacji pod zakłądką Rozkład jazdy. ",
+      "date": "7 Czerwiec 2020",
+      "show": false
+    },
+    "16": {
+      "title": "Bochnia - Gdów: zmiany w rozkładzie",
+      "content": "Od 15.06.2020 wznawiamy kursy \r\n\r\nod Poniedziałku do Piątku: \r\n\r\nz Gdowa: 17:45 \r\nz Bochni: 18:20 \r\n\r\noraz przywracamy sobotni rozkład jazdy",
+      "date": "9 Czerwiec 2020",
+      "show": true
+    },
+    "17": {
+      "title": "Przywrócenie Sobotniego rozkładu jazdy",
+      "content": "Od 20.06 następuje przywrócenie Sobotniego rozkładu jazdy na wszystkich trasach.",
+      "date": "17 Czerwiec 2020",
+      "show": true
+    },
+    "18": {
+      "title": "Sprzedaż biletów miesięcznych szkolnych",
+      "content": "1 września rozpoczynamy sprzedaż biletów miesięcznych szkolnych.\r\nWięcej informacji u kierowców oraz pod nr 601 520 289.",
+      "date": "14 Sierpień 2020",
+      "show": true
+    },
+    "19": {
+      "title": "Gdów - Bochnia: od 1.09 nowy rozkład jazdy",
+      "content": "Od 1.09.2020 (tj. Wtorek) na trasie Gdów - Bochnia obowiązuje nowy rozkład jazdy. Więcej informacji w zakładce \"Rozkład Jazdy\".",
+      "date": "28 Sierpień 2020",
+      "show": true
+    },
+    "20": {
+      "title": "Aktualizacja dot. ostatnich kursów",
+      "content": "W dniu 1.09.2020 ostatni kurs z:\r\n- Gdowa: 17:40\r\n- Bochni: 18:05\r\n\r\nInformacje na temat odjazdów w kolejne dni będą podawane na bieżąco.",
+      "date": "31 Sierpień 2020",
+      "show": true
+    },
+    "21": {
+      "title": "Sobotni rozkład jazdy",
+      "content": "Od 10.10.2020 (tj. Sobota) następuje aktualizacja sobotniego rozkładu jazdy. Nowe godziny kursów dostępne są w zakładce \"Rozkład Jazdy\".",
+      "date": "6 Październik 2020",
+      "show": true
+    },
+    "22": {
+      "title": "Bochnia - Gdów: przystanek początkowy i końcowy",
+      "content": "Na trasie Bochnia - Gdów następuje zmiana przystanku końcowego i początkowego - plac Pułaskiego w Bochni.",
+      "date": "6 Październik 2020",
+      "show": true
+    },
+    "23": {
+      "title": "Obowiązuje wakacyjny rozkład jazdy do odłowania!",
+      "content": "Z powodu COVID-19 od 19.10.2020 (tj. poniedziałek) obowiązuje wakacyjny rozkład jazdy do odwołwania.",
+      "date": "15 Październik 2020",
+      "show": true
+    },
+    "24": {
+      "title": "Bochnia - Gdów: zawieszone ostatnie kursy",
+      "content": "Od 2.11.2020 (tj. Poniedziałek) kursy na trasie Bochnia - Gdów: 17:45 z Gdowa oraz 18:20 z Bochni zawieszone do odwołania!",
+      "date": "31 Październik 2020",
+      "show": true
+    },
+    "25": {
+      "title": "Busy w Wigilię oraz Sylwestra",
+      "content": "W dniach: 24.12.2020 (Wigilia) - Busy nie kursują oraz 31.12.2020 (Sylwester) - obowiązuje sobotni rozkład jazdy",
+      "date": "21 Grudzień 2020",
+      "show": true
+    },
+    "26": {
+      "title": "Sobota Wielkanocna - Busy nie kursują",
+      "content": "W Sobotę Wielkanocną (tj. 3.04.2021) busy nie kursują",
+      "date": "29 Marzec 2021",
+      "show": true
+    },
+    "27": {
+      "title": "1 oraz 3 Maj - Busy nie kursują",
+      "content": "1.05.2021 oraz 3.05.2021 busy nie kursują ",
+      "date": "27 Kwiecień 2021",
+      "show": true
+    },
+    "28": {
+      "title": "Zmiana rozkładu jazdy",
+      "content": "Od 17.05 zmiana rozkładu jazdy na trasie Wieliczka - Gdów.",
+      "date": "13 Maj 2021",
+      "show": true
+    },
+    "29": {
+      "title": "Dodatkowe kursy na trasie Bochnia - Gdów",
+      "content": "Od 17.05.2021 na trasie Bochnia - Gdów obowiązują dodatkowe kursy: <br>\r\n- Odjazdy z Gdowa:\r\n17:45\r\n19:05\r\n\r\n- Odjazdy z Bochni:\r\n18:30\r\n19:40",
+      "date": "17 Maj 2021",
+      "show": false
+    },
+    "30": {
+      "title": "Dodatkowe kursy na trasie Bochnia - Gdów",
+      "content": "Na trasie Bochnia - Gdów od 17.05.2021 obowiązują dodatkowe kursy! Odjazdy z Gdowa: 17:45 oraz 19:05. Odjazdy z Bochni: 18:30 oraz 19:40.",
+      "date": "17 Maj 2021",
+      "show": true
+    },
+    "31": {
+      "title": "Zmiany w rozkładzie jazdy na trasie Bochnia - Gdów",
+      "content": "Od 31.05 następuje zmiana rozkładu jazdy na trasie Bochnia - Gdów. Szczegóły pod zakładką Rozkład jazdy.",
+      "date": "23 Maj 2021",
+      "show": true
+    },
+    "32": {
+      "title": "3.06 & 4.06: Zmiany w rozkładzie",
+      "content": "W dniu 3.06.2021 (czwartek) - busy nie kursują. W dniu 4.06.2021 (piątek) - obowiązuje wakacyjny rozkład jazdy.",
+      "date": "23 Maj 2021",
+      "show": true
+    },
+    "33": {
+      "title": "28.06 - Wakacyjny rozkład jazdy ",
+      "content": "Od 28.06 (poniedziałek) obowiązuje wakacyjny rozkład jazdy",
+      "date": "27 Czerwiec 2021",
+      "show": true
+    },
+    "34": {
+      "title": "Gdów - Bochnia: nowy kurs",
+      "content": "Informuję, że od dnia 19.07 (poniedziałek) Firma Przewozowa BMC wprowadza dodatkowy kurs z Gdowa do Bochni o godzinie 17:45",
+      "date": "12 Lipiec 2021",
+      "show": false
+    },
+    "35": {
+      "title": "Nowe kursy od 10.08 (wtorek)",
+      "content": "Od dnia 10.08.2021 (tj. wtorek), Firma Przewozowa BMC uruchamia następujące kursy:\r\n\r\n5:30 - odjazd z Gierczyc do Gdowa\r\n17:45 - odjazd z Gdowa",
+      "date": "9 Sierpień 2021",
+      "show": false
+    },
+    "36": {
+      "title": "Nowe kursy od 10.08 (wtorek)",
+      "content": "Od dnia 10.08.2021 (tj. wtorek), Firma Przewozowa BMC uruchamia następujące kursy: godz. 5:30 - odjazd z Gierczyc do Gdowa oraz o godz. 17:45 - odjazd z Gdowa ",
+      "date": "9 Sierpień 2021",
+      "show": true
+    },
+    "37": {
+      "title": "1.09 - Wakacyjny rozkład jazdy",
+      "content": "W dniu 1.09.2021 (tj. środa) obowiązuje wakacyjny rozkład jazdy",
+      "date": "24 Sierpień 2021",
+      "show": true
+    },
+    "38": {
+      "title": "Informacja",
+      "content": "Istnieje możliwość zakupu biletu miesięcznego łączonego na trasach Bochnia - Gdów, Gdów - Wieliczka.",
+      "date": "24 Sierpień 2021",
+      "show": true
+    },
+    "39": {
+      "title": "Zawieszony kurs z Gierczyc",
+      "content": "Od dnia 07.09 (tj. wtorek) kurs o godz. 5:30\r\nz Gierczyc zostaje zawieszony!\r\n",
+      "date": "3 Wrzesień 2021",
+      "show": true
+    },
+    "40": {
+      "title": "Zmiany w cenach biletów miesięcznych",
+      "content": "Nastąpiły zmiany w cenach biletów miesięcznych - szczegóły w zakładce \"Bilety misięczne\". ",
+      "date": "29 Wrzesień 2021",
+      "show": true
+    },
+    "41": {
+      "title": "14.10 & 15.10: Wakacyjny rozkład jazdy",
+      "content": "W dniach 14.10 (tj. Czwartek) oraz 15.10 (tj. Piątek) obowiązuje wakacyjny rozkład jazdy",
+      "date": "12 Październik 2021",
+      "show": true
+    },
+    "42": {
+      "title": "asdasdsa",
+      "content": "UWAGA\r\n\r\nOd 25.10.2021 zmiana\r\ngodzin odjazdów:\r\n\r\nz Gdowa:  \r\nz 7:25 na 7:20 \r\nz 8:45 na 8:40\r\n\r\nz Wieliczki:  \r\nz 7:55 na 7:50\r\nz 8:20 na 8:15\r\n",
+      "date": "16 Październik 2021",
+      "show": false
+    },
+    "43": {
+      "title": "21.10.2021 - Zmiana godzin odjazdów",
+      "content": "Od 25.10.2021 następuje zmiana godzin odjazdów z Gdowa: z 7:25 na 7:20 & z 8:45 na 8:40 oraz z Wieliczki: z 7:55 na 7:50 & z 8:20 na 8:15",
+      "date": "16 Październik 2021",
+      "show": true
+    },
+    "44": {
+      "title": "25.10.2021: Zmiana cen biletów",
+      "content": "Od dnia 25.10.2021 zmiana cen biletów miesięcznych i jednorazowych: Wieliczka – Łazany, Sławkowice, Bilczyce, Gdów oraz Gdów – Przebieczany, Tomaszkowice, Lednica, Wieliczka. Cena biletu jednorazowego: 5zł, cena biletu miesięcznego: 120zł\r\n",
+      "date": "16 Październik 2021",
+      "show": false
+    },
+    "45": {
+      "title": "25.10.2021: Zmiana cen biletów",
+      "content": "Od dnia 25.10.2021 zmiana cen biletów miesięcznych i jednorazowych: Wieliczka – Łazany, Jawczyce, Bilczyce, Gdów oraz Gdów – Przebieczany, Tomaszkowice, Lednica, Wieliczka. Cena biletu jednorazowego: 5zł, cena biletu miesięcznego: 120zł ",
+      "date": "18 Październik 2021",
+      "show": true
+    },
+    "46": {
+      "title": "8.11 - Zmiana godziny odjazdu z Bochnii",
+      "content": "Od dnia 8.11 (tj. Poniedziałek) zmiana godziny odjazdu z Bochni: z 18:30 na 18:35",
+      "date": "3 Listopad 2021",
+      "show": true
+    },
+    "47": {
+      "title": "22.12 - 9.01: Wakacyjny rozkład jazdy",
+      "content": "Od 20.12 do 9.01 obowiązuje wakacyjny rozkład jazdy. \r\n\r\nOstatni kurs z Gdowa do Bochni: 17:40",
+      "date": "15 Grudzień 2021",
+      "show": true
+    },
+    "48": {
+      "title": "Zmiana w rozkładzie",
+      "content": "Od 3.01.2022 odjazd z Gdowa o godzinie 17:40 w wakacje i ferie kursuje tylko do Gierczyc",
+      "date": "3 Styczeń 2022",
+      "show": true
+    },
+    "49": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "Do 27 lutego obowiązuje wakacyjny rozkład jazdy",
+      "date": "30 Styczeń 2022",
+      "show": true
+    },
+    "50": {
+      "title": "Podwyżka cen biletów ",
+      "content": "Od 21.03.2022 (tj. poniedziałek) następuje podwyżka cen biletów ",
+      "date": "15 Marzec 2022",
+      "show": true
+    },
+    "51": {
+      "title": "Od 1.04 obowiązują nowe ceny biletów miesięcznych.",
+      "content": "Od 1.04 obowiązują nowe ceny biletów miesięcznych.\r\n\r\nStara cena: 80, 90, 100, 120, 130\r\nNowa cena: 90, 100, 120, 140, 150\r\n",
+      "date": "30 Marzec 2022",
+      "show": true
+    },
+    "52": {
+      "title": "Rozkład jazdy 14.04, 15.04, 16.04, 19.04",
+      "content": "14.04 czwartek \r\nwakacyjny rozkład jazdy\r\n\r\n15.04 piątek\r\nwakacyjny rozkład jazdy\r\n\r\n16.04 sobota\r\nnie kursują\r\n\r\n19.04 wtorek\r\nwakacyjny rozkład jazdy",
+      "date": "11 Kwiecień 2022",
+      "show": false
+    },
+    "53": {
+      "title": "Aktualizacja rozkłazdu jazdy",
+      "content": "14.04 (czw), 15.04 (pt), 19.04 (wt) - wakacyjny rozkład jazdy\r\n16.04 (sb) - busy nie kursują",
+      "date": "11 Kwiecień 2022",
+      "show": false
+    },
+    "54": {
+      "title": "Aktualizacja rozkłazdu jazdy ",
+      "content": "W dniach:\r\n14.04 (czw.), 15.04 (pt.), 19.04 (wt.) - wakacyjny rozkład jazdy\r\n16.04 (sobota) - busy nie kursują",
+      "date": "11 Kwiecień 2022",
+      "show": true
+    },
+    "55": {
+      "title": "6.05 - Wakacyjny rozkład jazdy",
+      "content": "Z powodu matur w Piątek 6.05 obowiązuje wakacyjny rozkład jazdy",
+      "date": "1 Maj 2022",
+      "show": false
+    },
+    "56": {
+      "title": "Do piątku (6.05) obowiązuje wakacyjny rozkład jazdy ",
+      "content": "Z powodu matur do piąteku (6.05) obowiązuje wakacyjny rozkład jazdy\r\n",
+      "date": "3 Maj 2022",
+      "show": false
+    },
+    "57": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "Z powodu matur do piątku (6.05) obowiązuje wakacyjny rozkład jazdy ",
+      "date": "3 Maj 2022",
+      "show": true
+    },
+    "58": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "16.06 (czwartek) busy nie kursują\r\n\r\n17.06 (piątek) - wakacyjny rozkład jazdy\r\n\r\n24.06 - 1.09 - wakacyjny rozkład jazdy",
+      "date": "9 Czerwiec 2022",
+      "show": true
+    },
+    "59": {
+      "title": "Zmiany od 24.06 (piątek)",
+      "content": "Od 24.06 obowiązuje wakacyjny rozkład jazdy oraz odjazd z Gdowa o 17:40 kursuje tylko do Gierczyc",
+      "date": "23 Czerwiec 2022",
+      "show": true
+    },
+    "60": {
+      "title": "31.10 & 1.11: Zmiany rozkładu jazdy",
+      "content": "31 października (tj. Poniedziałek) obowiązuje wakacyjny rozkład jazdy.\r\n\r\n1 listopada (tj. Wtorek) busy nie kursują",
+      "date": "25 Październik 2022",
+      "show": true
+    },
+    "61": {
+      "title": "31.12: Busy nie kursują",
+      "content": "Dnia 31.12 (tj. Sylwester) busy nie kursują",
+      "date": "27 Grudnia 2022",
+      "show": true
+    }
+  }
+}
