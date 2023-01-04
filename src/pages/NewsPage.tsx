@@ -29,7 +29,7 @@ export const NewsPage: React.FC = () => {
           return (
             <div key={index} className="news-wrapper">
               <div>
-                <img src="/stuff/news-icon-1.png" />
+                <img src="/news-icon-1.png" />
               </div>
               <div className="news-body">
                 <div className="news-title">{news.title}</div>

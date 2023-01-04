@@ -7,7 +7,7 @@ export const ContactPage: React.FC = () => {
         <div className="contact-section-layout">
           <div className="flex">
             <div>
-              <img src="/stuff/stripes.png" />
+              <img src="/stripes.png" />
             </div>
             <div>
               <div className="contact-section-header">Kontakt</div>

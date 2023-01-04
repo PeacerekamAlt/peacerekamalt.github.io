@@ -7,18 +7,18 @@ export const TicketsPage: React.FC = () => {
         Kliknij aby pobrać wniosek dla trasy:
         <div className="download-tickets-table">
           <a
-            href="/stuff/wniosek-miesieczny-wieliczka-gdow.pdf"
+            href="/wniosek-miesieczny-wieliczka-gdow.pdf"
             target="_blank"
           >
             <div>
               Wieliczka - Gdów
-              <img src="/stuff/download.jpg" />
+              <img src="/download.jpg" />
             </div>
           </a>
-          <a href="/stuff/wniosek-miesieczny-bochnia-gdow.pdf" target="_blank">
+          <a href="/wniosek-miesieczny-bochnia-gdow.pdf" target="_blank">
             <div>
               Bochnia - Gdów
-              <img src="/stuff/download.jpg" />
+              <img src="/download.jpg" />
             </div>
           </a>
         </div>
