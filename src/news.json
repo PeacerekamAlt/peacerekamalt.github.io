@@ -1,5 +1,5 @@
 {
-  "important": "31.12 (sylwester) - busy nie kursują",
+  "important": "W dniu 7.01 (sobota) busy nie kursują",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -371,6 +371,12 @@
       "title": "31.12: Busy nie kursują",
       "content": "Dnia 31.12 (tj. Sylwester) busy nie kursują",
       "date": "27 Grudnia 2022",
+      "show": true
+    },
+    "62": {
+      "title": "7.01 (sobota): Busy nie kursują",
+      "content": "W dniu 7 stycznia (tj. sobota) busy nie kursują",
+      "date": "3 Styczeń 2023",
       "show": true
     }
   }

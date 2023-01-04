@@ -102,6 +102,7 @@ a {
     width: 100%;
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
     table {
       width: 300px;
     }
