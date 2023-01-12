@@ -1,5 +1,5 @@
 {
-  "important": "W dniu 7.01 (sobota) busy nie kursują",
+  "important": "[Bochnia - Gdów] Od dnia 16.01 (tj. Poniedziałek) następuje zmiana godziny odjazdu z Gdowa: z 12:30 na 12:45",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -377,6 +377,12 @@
       "title": "7.01 (sobota): Busy nie kursują",
       "content": "W dniu 7 stycznia (tj. sobota) busy nie kursują",
       "date": "3 Styczeń 2023",
+      "show": true
+    },
+    "63": {
+      "title": "Bochnia - Gdów: zmiana w rozkładzie jazdy",
+      "content": "Od dnia 16.01 (tj. Poniedziałek) na trasie Bochnia - Gdów następuje zmiana godziny odjazdu z Gdowa: z 12:30 na 12:45",
+      "date": "12 Styczeń 2023",
       "show": true
     }
   }
