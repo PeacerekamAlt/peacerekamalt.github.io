@@ -1,5 +1,5 @@
 {
-  "important": "[Bochnia - Gdów] Od dnia 16.01 (tj. Poniedziałek) następuje zmiana godziny odjazdu z Gdowa: z 12:30 na 12:45",
+  "important": "Od 30.01 do 12.02 obowiązuje wakacyjny rozkład jazdy",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -383,6 +383,12 @@
       "title": "Bochnia - Gdów: zmiana w rozkładzie jazdy",
       "content": "Od dnia 16.01 (tj. Poniedziałek) na trasie Bochnia - Gdów następuje zmiana godziny odjazdu z Gdowa: z 12:30 na 12:45",
       "date": "12 Styczeń 2023",
+      "show": true
+    },
+    "64": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "Od 30.01 do 12.02 obowiązuje wakacyjny rozkład jazdy",
+      "date": "25 Styczeń 2023",
       "show": true
     }
   }
