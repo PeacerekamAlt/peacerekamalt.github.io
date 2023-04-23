@@ -1,5 +1,5 @@
 {
-  "important": "Od 30.01 do 12.02 obowiązuje wakacyjny rozkład jazdy",
+  "important": "1.05 (poniedziałek) oraz 3.05 (środa) - busy nie kursują. Od 2.05 do 9.05 – z powodu matur obowiązuje wakacyjny rozkład jazdy.",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -389,6 +389,18 @@
       "title": "Wakacyjny rozkład jazdy",
       "content": "Od 30.01 do 12.02 obowiązuje wakacyjny rozkład jazdy",
       "date": "25 Styczeń 2023",
+      "show": true
+    },
+    "65": {
+      "title": "Rozkład jazdy",
+      "content": "Od 6.04 (czwartek) do 11.04 (wtorek) obowiązuje wakacyjny rozkład jazdy. W Sobotę Wielkanocną busy nie kursują.",
+      "date": "1 Kwiecień 2023",
+      "show": true
+    },
+    "66": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "1.05 (poniedziałek) oraz 3.05 (środa) - busy nie kursują\nOd 2.05 do 9.05 – z powodu matur obowiązuje wakacyjny rozkład jazdy",
+      "date": "23 Kwiecień 2023",
       "show": true
     }
   }
