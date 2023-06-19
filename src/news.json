@@ -1,5 +1,5 @@
 {
-  "important": "8.06 (Boże Ciało) busy nie kursują. 9.06 (Piątek) obowiązuje wakacyjny rozkład jazdy",
+  "important": "23.06 (Piątek) obowiązuje wakacyjny rozkład jazdy",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -407,6 +407,12 @@
       "title": "Zmiany w rozkładzie jazdy",
       "content": "8.06 (Boże Ciało) busy nie kursują. 9.06 (Piątek) obowiązuje wakacyjny rozkład jazdy",
       "date": "6 Czerwiec 2023",
+      "show": true
+    },
+    "68": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "23.06 (Piątek) obowiązuje wakacyjny rozkład jazdy",
+      "date": "19 Czerwiec 2023",
       "show": true
     }
   }
