@@ -23,9 +23,20 @@ export const NewsPage: React.FC = () => {
     <div className="dynamic-content">
       <div className="news-section">
         {firstTenNews.map((news, index) => {
-          const contentElements = news.content
-            .split("\n")
-            .map((a, i) => <div key={`${a}-${i}`}>{a}</div>);
+          const contentElements = news.content.split("\n").map((a, i) => {
+            const isBr = a === "<br>";
+            return (
+              <div
+                style={{ 
+                  color: isBr ? "transparent" : "black",
+                  fontSize: isBr ? 8 : 16
+                }}
+                key={`${a}-${i}`}
+              >
+                {isBr ? "-" : a}
+              </div>
+            );
+          });
           return (
             <div key={index} className="news-wrapper">
               <div>

@@ -1,5 +1,5 @@
 {
-  "important": "Sprzedaż biletów miesięcznych tylko z kserokopią aktualnej legitymacji szkolnej",
+  "important": "UWAGA! Od 23.10.2023 (tj. poniedziałek) zmiany godzin odjazdów na trasie Bochnia - Gdów!",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -413,6 +413,12 @@
       "title": "Wakacyjny rozkład jazdy",
       "content": "23.06 (Piątek) obowiązuje wakacyjny rozkład jazdy",
       "date": "19 Czerwiec 2023",
+      "show": true
+    },
+    "69": {
+      "title": "Zmiany w rozkładzie jazdy",
+      "content": "Od 23.10.2023 (tj. poniedziałek) zmiany godzin odjazdów na trasie Bochnia - Gdów.\n<br>\nz Gdowa:\n6:05  na  5:55\n6:50  dwa busy równolegle\n7:00  odjazdy tylko wakacje i ferie\n8:25  na  8:15\n<br>\nz Bochni:\n6:35  na  6:25\n7:45  na  7:40",
+      "date": "18 Październik 2023",
       "show": true
     }
   }

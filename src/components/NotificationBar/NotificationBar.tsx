@@ -19,6 +19,25 @@ export const NotificationBar: React.FC = () => {
     .join(" ")
     .trim();
 
+  const formattedMessage = () => {
+    const contentElements = (notification || [])?.message.split("\n").map((a, i) => {
+      const isBr = a === "<br>";
+      return (
+        <div
+          style={{ 
+            color: isBr ? "transparent" : "white",
+            fontSize: isBr ? 8 : ""
+          }}
+          key={`${a}-${i}`}
+        >
+          {isBr ? "-" : a}
+        </div>
+      );
+    });
+
+    return contentElements
+  }
+
   return (
     <div
       className={classNames}
@@ -27,7 +46,7 @@ export const NotificationBar: React.FC = () => {
         setHide(true);
       }}
     >
-      <span className="notification-text">{notification?.message}</span>
+      <span className="notification-text">{formattedMessage()}</span>
       <span className="close-notification">×</span>
     </div>
   );
