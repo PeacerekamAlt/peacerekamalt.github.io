@@ -1,5 +1,5 @@
 {
-  "important": "UWAGA! Od 30.10.2023 (tj. poniedziałek) zmiany godzin odjazdów na trasie Bochnia - Gdów!",
+  "important": "2.11 (czwartek), 3.11 (piątek) - obowiązuje wakacyjny rozkład jazdy\n<br>\n4.11 (sobota) - busy nie kursują",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -419,6 +419,12 @@
       "title": "Zmiany w rozkładzie jazdy",
       "content": "Od 30.10.2023 (tj. poniedziałek) zmiany godzin odjazdów na trasie Bochnia - Gdów.\n<br>\nz Gdowa:\n6:05  na  5:55\n6:50  dwa busy równolegle\n7:00  odjazdy tylko wakacje i ferie\n8:25  na  8:15\n<br>\nz Bochni:\n6:35  na  6:25\n7:45  na  7:40",
       "date": "18 Październik 2023",
+      "show": true
+    },
+    "70": {
+      "title": "Listopad - zmiany w rozkładzie jazdy",
+      "content": "2.11 (czwartek), 3.11 (piątek) - obowiązuje wakacyjny rozkład jazdy\n4.11 (sobota) - busy nie kursują\n<br>\nBochnia - Gdów: w dniach 2.11 oraz 3.11 dodatkowe kursy:\nz Gdowa: 17:45 , 19:10\nz Bochni: 18:35 , 19:40",
+      "date": "30 Październik 2023",
       "show": true
     }
   }
