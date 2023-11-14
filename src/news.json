@@ -1,5 +1,5 @@
 {
-  "important": "2.11 (czwartek), 3.11 (piątek) - obowiązuje wakacyjny rozkład jazdy\n<br>\n4.11 (sobota) - busy nie kursują",
+  "important": "UWAGA! Sobotni rozkład jazdy zostaje zawieszony do odwołania!",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -425,6 +425,12 @@
       "title": "Listopad - zmiany w rozkładzie jazdy",
       "content": "2.11 (czwartek), 3.11 (piątek) - obowiązuje wakacyjny rozkład jazdy\n4.11 (sobota) - busy nie kursują\n<br>\nBochnia - Gdów: w dniach 2.11 oraz 3.11 dodatkowe kursy:\nz Gdowa: 17:45 , 19:10\nz Bochni: 18:35 , 19:40",
       "date": "30 Październik 2023",
+      "show": true
+    },
+    "71": {
+      "title": "UWAGA! Zmiany w rozkładzie jazdy",
+      "content": "Sobotni rozkład jazdy zostaje zawieszony do odwołania.",
+      "date": "14 Listopad 2023",
       "show": true
     }
   }
