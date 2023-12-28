@@ -1,5 +1,5 @@
 {
-  "important": "UWAGA! Sobotni rozkład jazdy zostaje zawieszony do odwołania!",
+  "important": "W dniach od 27.12 do 29.12 obowiązuje wakacyjny rozkład jazdy",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -428,9 +428,15 @@
       "show": true
     },
     "71": {
-      "title": "UWAGA! Zmiany w rozkładzie jazdy",
+      "title": "Zmiany w rozkładzie jazdy",
       "content": "Sobotni rozkład jazdy zostaje zawieszony do odwołania.",
       "date": "14 Listopad 2023",
+      "show": true
+    },
+    "72": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "W dniach od 27.12 do 29.12 obowiązuje wakacyjny rozkład jazdy.",
+      "date": "19 Grudzień 2023",
       "show": true
     }
   }
