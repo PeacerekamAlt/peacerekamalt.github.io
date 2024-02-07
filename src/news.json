@@ -1,5 +1,5 @@
 {
-  "important": "W dniach od 27.12 do 29.12 obowiązuje wakacyjny rozkład jazdy",
+  "important": "Od 12.02 do 25.02 obowiązuje wakacyjny rozkład jazdy.",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -437,6 +437,12 @@
       "title": "Wakacyjny rozkład jazdy",
       "content": "W dniach od 27.12 do 29.12 obowiązuje wakacyjny rozkład jazdy.",
       "date": "19 Grudzień 2023",
+      "show": true
+    },
+    "73": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "W dniach od 12.02 do 25.02 obowiązuje wakacyjny rozkład jazdy.",
+      "date": "7 Luty 2024",
       "show": true
     }
   }
