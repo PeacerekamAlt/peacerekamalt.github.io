@@ -1,5 +1,7 @@
-import React, { useState } from "react";
 import "./style.scss";
+
+import React, { useState } from "react";
+
 import db from "../../news.json";
 
 const notification = {
@@ -20,22 +22,28 @@ export const NotificationBar: React.FC = () => {
     .trim();
 
   const formattedMessage = () => {
-    const contentElements = (notification || [])?.message.split("\n").map((a, i) => {
-      const isBr = a === "<br>";
-      return (
-        <div
-          style={{ 
-            color: isBr ? "transparent" : "white",
-            fontSize: isBr ? 8 : ""
-          }}
-          key={`${a}-${i}`}
-        >
-          {isBr ? "-" : a}
-        </div>
-      );
-    });
+    const contentElements = (notification || [])?.message
+      .split("\n")
+      .map((a, i) => {
+        const isBr = a === "<br>";
+        return (
+          <div
+            style={{
+              color: isBr ? "transparent" : "white",
+              fontSize: isBr ? 8 : "",
+            }}
+            key={`${a}-${i}`}
+          >
+            {isBr ? "-" : a}
+          </div>
+        );
+      });
 
-    return contentElements
+    return contentElements;
+  };
+
+  if (!notification?.message) {
+    return <></>;
   }
 
   return (
