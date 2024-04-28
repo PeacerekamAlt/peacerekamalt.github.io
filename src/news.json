@@ -1,5 +1,5 @@
 {
-  "important": "",
+  "important": "Z powodu matur od 2.05 do 10.05 obowiązuje wakacyjny rozkład jazdy.",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -449,6 +449,12 @@
       "title": "Zmiany w rozkładzie jazdy",
       "content": "W dniach: 28.03 (czwartek), 29.03 (piątek), 2.04 (wtorek) obowiązuje wakacyjny rozkład jazdy.",
       "date": "24 Marzec 2024",
+      "show": true
+    },
+    "75": {
+      "title": "Matury: wakacyjny rozkład jazdy",
+      "content": "Z powodu matur od 2.05 do 10.05 obowiązuje wakacyjny rozkład jazdy.",
+      "date": "29 Kwiecień 2024",
       "show": true
     }
   }
