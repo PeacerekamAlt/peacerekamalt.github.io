@@ -1,5 +1,5 @@
 {
-  "important": "",
+  "important": "W dniu 14.10 (poniedziałek) obowiązuje wakacyjny rozkład jazdy",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -467,6 +467,18 @@
       "title": "Czerwiec: Wakacyjny rozkład jazdy",
       "content": "Od dnia 21.06 (piątek) obowiązuje wakacyjny rozkład jazdy",
       "date": "17 Czerwiec 2024",
+      "show": true
+    },
+    "78": {
+      "title": "2 Września - Wakacyjny rozkład jazdy",
+      "content": "W dniu 2.09 (poniedziałek) obowiązuje wakacyjny rozkład jazdy",
+      "date": "27 Sierpień 2024",
+      "show": true
+    },
+    "79": {
+      "title": "14 Października - Wakacyjny rozkład jazdy",
+      "content": "W dniu 14.10 (poniedziałek) obowiązuje wakacyjny rozkład jazdy",
+      "date": "13 Październik 2024",
       "show": true
     }
   }
