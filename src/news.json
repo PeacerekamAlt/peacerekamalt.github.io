@@ -1,5 +1,5 @@
 {
-  "important": "",
+  "important": "Od dnia 23.12.2024 do 6.01.2025 obowiązuje wakacyjny rozkład jazdy",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -479,6 +479,12 @@
       "title": "14 Października - Wakacyjny rozkład jazdy",
       "content": "W dniu 14.10 (poniedziałek) obowiązuje wakacyjny rozkład jazdy",
       "date": "13 Październik 2024",
+      "show": true
+    },
+    "80": {
+      "title": "23.12 - 6.01: Wakacyjny rozkład jazdy",
+      "content": "Od dn. 23.12.2024 do 6.01.2025 obowiązuje wakacyjny rozkład jazdy",
+      "date": "17 Grudzień 2024",
       "show": true
     }
   }
