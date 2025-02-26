@@ -1,5 +1,5 @@
 {
-  "important": "Od dnia 23.12.2024 do 6.01.2025 obowiązuje wakacyjny rozkład jazdy.\nW Wigilię, Święta i Sylwestra busy nie kursują.",
+  "important": "",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -485,6 +485,12 @@
       "title": "23.12 - 6.01: Wakacyjny rozkład jazdy",
       "content": "Od dn. 23.12.2024 do 6.01.2025 obowiązuje wakacyjny rozkład jazdy.\nW Wigilię, Święta i Sylwestra busy nie kursują.",
       "date": "17 Grudzień 2024",
+      "show": true
+    },
+    "81": {
+      "title": "20.01 - 2.02: Wakacyjny rozkład jazdy",
+      "content": "Od dn. 20.01.2025 do 2.02.2025 obowiązuje wakacyjny rozkład jazdy.",
+      "date": "15 Styczeń 2025",
       "show": true
     }
   }
