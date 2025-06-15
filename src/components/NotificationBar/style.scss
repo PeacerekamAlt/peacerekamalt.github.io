@@ -21,7 +21,7 @@
     background-color: #74cc74;
   }
   &.reveal {
-    max-height: 230px;
+    max-height: 450px;
   }
   &.hide {
     max-height: 0px;
@@ -35,10 +35,10 @@
     transition: 0.5s ease-in-out;
     opacity: 1;
     width: 100%;
-    display: -webkit-box;
-    line-clamp: 6;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;  
+    // display: -webkit-box;
+    // line-clamp: 14;
+    // -webkit-line-clamp: 14;
+    // -webkit-box-orient: vertical;  
     overflow: hidden;
   }
   .close-notification {

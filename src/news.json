@@ -492,6 +492,18 @@
       "content": "Od dn. 20.01.2025 do 2.02.2025 obowiązuje wakacyjny rozkład jazdy.",
       "date": "15 Styczeń 2025",
       "show": true
+    },
+    "82": {
+      "title": "17.04 - 22.04: Wakacyjny rozkład jazdy",
+      "content": "Od dn. 17.04.2025 do 22.04.2025 obowiązuje wakacyjny rozkład jazdy.",
+      "date": "13 Kwiecień 2025",
+      "show": true
+    },
+    "83": {
+      "title": "Zmiany w rozkładach jazdy",
+      "content": "Wieliczka - Gdów: W dniu 2.05.2025 busy nie kursują.\n​\nGdów - Wieliczka: Od 5.05 do 8.05 obowiązuje wakacyjny rozkład jazdy\n​\nGdów - Bochnia: W dniach: 2.05, 5.05, 6.05, 7.05, 8.05 obowiązuje wakacyjny rozkład jazdy.",
+      "date": "27 Kwiecień 2025",
+      "show": true
     }
   }
 }
