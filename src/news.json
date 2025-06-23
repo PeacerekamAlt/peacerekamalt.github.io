@@ -1,5 +1,5 @@
 {
-  "important": "",
+  "important": "Od dnia 27.06 (t.j. Piątek) do 31.08 obowiązuje wakacyjny rozkład jazdy",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -503,6 +503,18 @@
       "title": "Zmiany w rozkładach jazdy",
       "content": "Wieliczka - Gdów: W dniu 2.05.2025 busy nie kursują.\n​\nGdów - Wieliczka: Od 5.05 do 8.05 obowiązuje wakacyjny rozkład jazdy\n​\nGdów - Bochnia: W dniach: 2.05, 5.05, 6.05, 7.05, 8.05 obowiązuje wakacyjny rozkład jazdy.",
       "date": "27 Kwiecień 2025",
+      "show": true
+    },
+    "84": {
+      "title": "20.06: Wakacyjny rozkład jazdy",
+      "content": "W dniu 20.06 (tj. Piątek) obowiązuje wakacyjny rozkład jazdy",
+      "date": "17 Czerwiec 2025",
+      "show": true
+    },
+    "85": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "Od dnia 27.06 (t.j. Piątek) do 31.08 obowiązuje wakacyjny rozkład jazdy",
+      "date": "23 Czerwiec 2025",
       "show": true
     }
   }
