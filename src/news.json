@@ -1,5 +1,5 @@
 {
-  "important": "Uwaga! Trwa sprzedaż biletów miesięcznych szkolnych!\nW dniu 1.09 ostatni kurs z Gdowa godz. 16:35, z Bochni godz. 17:10",
+  "important": "W dniu 31.10 (piątek) ostatnii kurs:\nz Bochni 17:10\nz Gdowa 16:35",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -521,6 +521,18 @@
       "title": "1 września - Zmiany w rozkładzie",
       "content": "W dniu 1.09 ostatni kurs z Gdowa o godzinie 16:35, a z Bochni o godzinie 17:10",
       "date": "31 Sierpień 2025",
+      "show": true
+    },
+    "87": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "W dniu 14.10 (tj. wtorek) obowiązuje wakacyjny rozkład jazdy",
+      "date": "10 Październik 2025",
+      "show": true
+    },
+    "88": {
+      "title": "Ostatni kurs 31.10.2025",
+      "content": "W dniu 31.10 (tj. piątek) ostatnii kurs:\nz Bochni 17:10\nz Gdowa 16:35",
+      "date": "30 Październik 2025",
       "show": true
     }
   }
