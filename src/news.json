@@ -1,5 +1,5 @@
 {
-  "important": "W dniu 31.10 (piątek) ostatnii kurs:\nz Bochni 17:10\nz Gdowa 16:35",
+  "important": "W dniu 10.11 (tj. Poniedziałek) obowiązuje wakacyjny rozkład jazdy",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -533,6 +533,12 @@
       "title": "Ostatni kurs 31.10.2025",
       "content": "W dniu 31.10 (tj. piątek) ostatnii kurs:\nz Bochni 17:10\nz Gdowa 16:35",
       "date": "30 Październik 2025",
+      "show": true
+    },
+    "89": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "W dniu 10.11 (tj. Poniedziałek) obowiązuje wakacyjny rozkład jazdy",
+      "date": "5 Listopada 2025",
       "show": true
     }
   }
