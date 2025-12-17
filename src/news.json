@@ -1,5 +1,5 @@
 {
-  "important": "W dniu 10.11 (tj. Poniedziałek) obowiązuje wakacyjny rozkład jazdy",
+  "important": "Od dnia 22.12.2025 do 6.01.2026 obowiązuje wakacyjny rozkład jazdy\n​\nW dniu 19.12 (tj. Piątek) ostatni kurs:\nz Gdowa, godz. 16:35\nz Bochni, godz. 17:10",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -539,6 +539,12 @@
       "title": "Wakacyjny rozkład jazdy",
       "content": "W dniu 10.11 (tj. Poniedziałek) obowiązuje wakacyjny rozkład jazdy",
       "date": "5 Listopada 2025",
+      "show": true
+    },
+    "90": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "Od dnia 22.12.2025 do 6.01.2026 obowiązuje wakacyjny rozkład jazdy\n​\nW dniu 19.12 (tj. Piątek) ostatni kurs:\n - z Gdowa, godz. 16:35\n - z Bochni, godz. 17:10",
+      "date": "16 Grudzień 2025",
       "show": true
     }
   }
