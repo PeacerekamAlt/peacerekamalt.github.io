@@ -1,5 +1,5 @@
 {
-  "important": "",
+  "important": "Bochnia - Gdów: od 4.05 do 7.05 obowiązuje wakacyjny rozkład jazdy\nGdów - Wieliczka: od 4.05 do 8.05 obowiązuje wakacyjny rozkład jazdy",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -551,6 +551,12 @@
       "title": "Kwiecień 2026: Wakacyjny rozkład jazdy",
       "content": "W dniach:\n- 2.04 Czwartek\n- 3.04 Piątek\n- 7.04 Wtorek\nObowiązuje wakacyjny rozkład jazdy.",
       "date": "27 Marzec 2026",
+      "show": true
+    },
+    "92": {
+      "title": "Zmiany w rozkładzie jazdy z powodu Matur",
+      "content": "Na trasie Bochnia - Gdów:\nod 4.05 (poniedziałek) do 7.05 (czwartek) obowiązuje wakacyjny rozkład jazdy.\n ​ \nNa trasie Gdów - Wieliczka:\nod 4.05 (poniedziałek) do 8.05 (piątek) obowiązuje wakacyjny rozkład jazdy.",
+      "date": "3 Maj 2026",
       "show": true
     }
   }
