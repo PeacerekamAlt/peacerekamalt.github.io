@@ -1,5 +1,5 @@
 {
-  "important": "Od dnia 26.06 do 31.08 obowiązuje wakacyjny rozkład jazdy",
+  "important": "",
   "news": {
     "0": {
       "title": "Witamy!",
@@ -569,6 +569,12 @@
       "title": "Wakacyjny rozkład jazdy",
       "content": "Od dnia 26.06 do 31.08 obowiązuje wakacyjny rozkład jazdy",
       "date": "22 Czerwiec 2026",
+      "show": true
+    },
+    "95": {
+      "title": "Wakacyjny rozkład jazdy",
+      "content": "W dniu 1.09 obowiązuje wakacyjny rozkład jazdy",
+      "date": "29 Sierpień 2026",
       "show": true
     }
   }
